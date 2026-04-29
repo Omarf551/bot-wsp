@@ -1,6 +1,6 @@
-# 💀 Bot Rata — WhatsApp Bot con IA Local
+# 💀 Bot  — WhatsApp Bot con IA Local
 
-Bot de WhatsApp para el grupo "Hitler NOS AMA" con personalidad sarcástica, stickers y memoria del grupo.
+
 
 ---
 
